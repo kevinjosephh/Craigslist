@@ -11,7 +11,7 @@ All the required dependencies are mention in requirements.txt file
 
 ### Installing
 
-> pip install requirements.txt
+> pip install -r requirements.txt
 
 ### Executing program
 * For Windows
